@@ -1,12 +1,13 @@
-# 07: CSS/SASS/SCSS
+# 14: HTTP Requests in Vue
 > _Coming Soon_
 
+[vue-resource](https://github.com/pagekit/vue-resource)
+[Axios](https://github.com/axios/axios)
+
+
+https://alligator.io/vuejs/rest-api-axios/
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam maximus volutpat mauris. Donec non orci nunc. In mollis viverra sollicitudin.
-
-- preprocessors
-- postprocessors
-- sass/scss
 
 ## **Reading List**
 

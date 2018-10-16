@@ -1,4 +1,4 @@
-# 06 Commonjs/AMD
+# 06: Commonjs/AMD
 > _Coming Soon_
 
 

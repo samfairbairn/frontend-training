@@ -1,4 +1,4 @@
-# 01 The Module Design Pattern
+# 01: The Module Design Pattern
 > _And reusable modules using prototypes_
 
 

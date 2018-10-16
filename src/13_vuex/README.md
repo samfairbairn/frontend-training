@@ -1,4 +1,4 @@
-# 13 Vuex
+# 13: Vuex
 > _Coming Soon_
 
 

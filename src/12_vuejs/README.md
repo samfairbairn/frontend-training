@@ -1,4 +1,4 @@
-# 12 Vue.js
+# 12: Vue.js
 > _Coming Soon_
 
 

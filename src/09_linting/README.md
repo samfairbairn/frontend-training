@@ -1,4 +1,4 @@
-# 09 Linting
+# 09: Linting
 > _Coming Soon_
 
 

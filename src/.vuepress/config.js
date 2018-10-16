@@ -19,8 +19,9 @@ module.exports = {
       '/11_routing_and_history_api/',
       '/12_vuejs/',
       '/13_vuex/',
-      '/14_vuecli/',
-      '/15_vue_exercise/'
+      '/14_vue_http_requests/',
+      '/15_vuecli/',
+      '/16_vue_exercise/'
     ]
   }
 }

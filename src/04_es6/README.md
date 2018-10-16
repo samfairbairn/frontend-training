@@ -1,4 +1,4 @@
-# 04 ES6
+# 04: ES6
 > _Coming Soon_
 
 
