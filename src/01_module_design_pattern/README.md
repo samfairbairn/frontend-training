@@ -44,8 +44,6 @@ We will focus briefly on **Creational** design patterns, in order to understand 
 
 - **Legibility** - modules also makes it easier to organise our code into a more logical structure and make the codebase easier to navigate and work on as the project grows.
 
----
-
 ### **_How?_**
 
 We can't make real classes in JavaScript but we can mimic a class' behaviour by making an object that contains it's own properties and methods.

@@ -69,10 +69,7 @@ There are some occasions where you will receive a CORS error, when a request fro
 
 ## **Exercise**
 
-Try using a GET request to receive information from a json file.
-
-
----
+Try creating a .json file and using a GET request to retrieve it's data. You can use the dev tools network tab to see the request and it's headers.
 
 ## **Further Reading**
 
