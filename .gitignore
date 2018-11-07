@@ -3,6 +3,8 @@ node_modules
 
 __##*.*
 
+.vuepress/
+
 /tests/e2e/reports/
 selenium-debug.log
 
