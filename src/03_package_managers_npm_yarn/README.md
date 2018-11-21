@@ -23,13 +23,40 @@ You can also install packages via the terminal, and install packages globally us
 npm install -g http-server
 ```
 
-Often a package manager is used together with a module bundler, module bundlers allow you to easily import a package into your front-end code, for example Vue uses Webpack as it's module bundler and it let's you easily import installed packages into your code like:
+<!-- Often a package manager is used together with a module bundler, module bundlers allow you to easily import a package into your front-end code, for example Vue uses Webpack as it's module bundler and it let's you easily import installed packages into your code like:
 
 ```javascript
 import $ from 'jquery'
 ```
 
-Now jQuery's $ is available inside your code. We will look at Webpack more in another lesson.
+Now jQuery's $ is available inside your code. We will look at Webpack more in another lesson. -->
+
+<expand title="Extra: A Note on Importing JS Modules">
+
+  There are various ways to import packages into a project, traditionally node.js uses CommonJS, now with ES6 you can use the more powerful ES Modules, which are supported in most modern browsers and made available to others with Babel, you've probably seen both being used in a project somewhere before.
+
+  #### CommonJS
+
+  The CommonJS module specification is the standard used in Node.js for working with modules.
+
+
+  ```javascript
+  const package = require('module-name')
+  ```
+
+  [Read this introduction on CommonJS](https://flaviocopes.com/commonjs/)
+
+  #### ES Modules
+
+  While Node.js has been using the CommonJS standard for years, the browser hasn't had a module system until ES Modules was implemented in ES6 and is supported across most modern browsers.
+
+  ```javascript
+  import package from 'module-name'
+  ```
+
+  [Read this introduction on ES Modules](https://flaviocopes.com/es-modules/)
+
+</expand>
 
 ### package.json config
 
