@@ -17,6 +17,31 @@ _Some useful resources to get you started._
 
 ## **Recap**
 
+#### Importing Modules
+
+There are various ways to import packages into a project, traditionally node.js uses CommonJS, now with ES6 you can use the more powerful ES Modules, which are supported in most modern browsers and made available to others with Babel, you've probably seen both being used in a project somewhere before.
+
+##### CommonJS
+
+The CommonJS module specification is the standard used in Node.js for working with modules.
+
+
+```javascript
+const package = require('module-name')
+```
+
+[Read this introduction on CommonJS](https://flaviocopes.com/commonjs/)
+
+##### ES Modules
+
+While Node.js has been using the CommonJS standard for years, the browser hasn't had a module system until ES Modules was implemented in ES6 and is supported across most modern browsers.
+
+```javascript
+import package from 'module-name'
+```
+
+[Read this introduction on ES Modules](https://flaviocopes.com/es-modules/)
+
 #### let & const
 
 let is similar to var however it has block scope, meaning let can be defined inside a function and it won't affect the same named let outside the object instance. const are the same, except const values cannot be redefined.

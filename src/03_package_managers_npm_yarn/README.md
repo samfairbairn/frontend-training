@@ -31,7 +31,7 @@ import $ from 'jquery'
 
 Now jQuery's $ is available inside your code. We will look at Webpack more in another lesson. -->
 
-<expand title="Extra: A Note on Importing JS Modules">
+<!-- <expand title="Extra: A Note on Importing JS Modules">
 
   There are various ways to import packages into a project, traditionally node.js uses CommonJS, now with ES6 you can use the more powerful ES Modules, which are supported in most modern browsers and made available to others with Babel, you've probably seen both being used in a project somewhere before.
 
@@ -56,7 +56,7 @@ Now jQuery's $ is available inside your code. We will look at Webpack more in an
 
   [Read this introduction on ES Modules](https://flaviocopes.com/es-modules/)
 
-</expand>
+</expand> -->
 
 ### package.json config
 
